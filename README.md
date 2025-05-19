@@ -1,25 +1,31 @@
-📚 Reading Habit Tracker
+# 📚 Reading Habit Tracker
 
-A simple Python app that uses the Pixela API to visually track my daily reading habit.This project helps me stay consistent and motivated by turning my habit into a graph — one pixel per day!
+A Python app to track my daily reading habit using the [Pixela API](https://pixe.la/).  
+Visualize your progress with pixel graphs and stay motivated!
 
-🚀 Features
+---
 
-📆 Track daily reading by asking for an input
+## 🚀 Features
 
-📊 Visual graph to see your progress
+- Log daily reading activity easily  
+- View your reading streaks in a neat pixel graph  
+- Secure API keys with `.env`  
+- Create, update, and delete pixel entries  
 
-🧼 Secure API key handling with .env file
+---
 
-✅ Add, update, or delete habit entries
+## 🛠️ Built With
 
-🐍 Built with Python and the Pixela API
+- Python 3  
+- `requests` library  
+- `python-dotenv` for environment variables  
+- [Pixela API](https://docs.pixe.la)  
 
-🛠️ Built With
+---
 
-Python 3
+## 🔒 Setup
 
-requests library
-
-dotenv for environment variables
-
-Pixela API (free & easy-to-use habit tracker)
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/yourusername/habit-tracker.git
+   cd habit-tracker
