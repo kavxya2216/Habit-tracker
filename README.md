@@ -27,5 +27,5 @@ Visualize your progress with pixel graphs and stay motivated!
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/habit-tracker.git
-   cd habit-tracker
+   git clone https://github.com/kavxya2216/Habit-tracker.git
+   cd Habit-tracker
